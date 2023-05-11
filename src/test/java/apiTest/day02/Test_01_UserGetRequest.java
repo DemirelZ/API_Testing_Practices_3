@@ -47,6 +47,7 @@ public class Test_01_UserGetRequest {
         assertEquals(response.contentType(), "application/json; charset=UTF-8");
 
         //response headers
+        //response headers
 
         System.out.println("response.headers() = " + response.headers());
 
